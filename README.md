@@ -37,10 +37,8 @@ ConflictCast/
 ├── app.py             # Main Flask application with integrated functionality
 ├── templates
       ├──index.html    # Main page
-├── static
-      ├──js
-          ├──app.js   # Static assets (CSS, JS, images)
-└── uploads/          # Temporary storage for uploaded images
+├── static  # Static assets (CSS, JS, images)
+
 ```
 
 ## 🚀 Getting Started
@@ -57,8 +55,8 @@ ConflictCast/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/MohaideenNiyas/NewsLens.git
-   cd NewsLens
+   git clone https://github.com/Rick-smasho/OCR.git
+   cd OCR
    ```
 
 2. Install dependencies:
