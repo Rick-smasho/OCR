@@ -73,7 +73,7 @@ ConflictCast/
 
 4. Run the application:
    ```
-   flask run
+   python app.py
    ```
 
 5. Open your browser and navigate to `http://localhost:5000`
